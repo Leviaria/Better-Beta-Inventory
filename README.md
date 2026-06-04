@@ -14,6 +14,8 @@ Brings modern inventory controls to Minecraft Beta 1.7.3. No more fumbling throu
 
 ## Installation
 
+[![Download on Modrinth](https://img.shields.io/badge/Modrinth-Download-brightgreen?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/better-beta-inventory)
+
 ### MultiMC / Prism Launcher
 1. Right-click your Beta 1.7.3 instance and select **Edit Instance**
 2. Go to the **Loader Mods** or **jar mods** tab
